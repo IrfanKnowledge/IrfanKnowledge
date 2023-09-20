@@ -2,8 +2,24 @@
 
 Perkenalkan nama saya **Irfan M. Faisal**.<br>
 
-Saya seorang **Fresh Graduate** yang berfokus di Mobile Developer
+Saya seorang **Fresh Graduate** yang berfokus di Mobile Developer.
 
+Saya memiliki akun [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/).
+
+Mengenai project yang pernah saya buat, di antaranya yaitu:
+
+-Flutter:
+ +[RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
+
+-Android (Kotlin):
+ +[GitHubUserApp](https://github.com/IrfanKnowledge/GitHubUser4ElectricEel_Clean)
+
+-Back End NodeJS (Hapi.js):
+ +[BookShelfAPI](https://github.com/IrfanKnowledge/sbm-1-bookshelf-api)
+
+-PHP:
+ +[E-Learning](https://github.com/IrfanKnowledge/PromNet_E-Learning)
+ 
 <!--
 **IrfanKnowledge/IrfanKnowledge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
