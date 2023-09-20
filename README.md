@@ -8,17 +8,17 @@ Saya memiliki akun [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-
 
 Mengenai project yang pernah saya buat, di antaranya yaitu:
 
--Flutter:<br>
- +[RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)<br>
- 
--Android (Kotlin):<br>
- +[GitHubUserApp](https://github.com/IrfanKnowledge/GitHubUser4ElectricEel_Clean)<br>
+- Flutter:
+  + [RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
 
--Back End NodeJS (Hapi.js):<br>
- +[BookShelfAPI](https://github.com/IrfanKnowledge/sbm-1-bookshelf-api)<br>
+- Android (Kotlin):
+  + [GitHubUserApp](https://github.com/IrfanKnowledge/GitHubUser4ElectricEel_Clean)
 
--PHP:<br>
- +[E-Learning](https://github.com/IrfanKnowledge/PromNet_E-Learning)<br>
+- Back End NodeJS (Hapi.js):
+  + [BookShelfAPI](https://github.com/IrfanKnowledge/sbm-1-bookshelf-api)
+
+- PHP:
+  + [E-Learning](https://github.com/IrfanKnowledge/PromNet_E-Learning)
  
 <!--
 **IrfanKnowledge/IrfanKnowledge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
