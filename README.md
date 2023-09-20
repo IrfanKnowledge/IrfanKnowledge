@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semuanya! 👋
+
+Perkenalkan nama saya **Irfan M. Faisal**.<br>
+
+Saya seorang **Fresh Graduate** yang berfokus di Mobile Developer
 
 <!--
 **IrfanKnowledge/IrfanKnowledge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
