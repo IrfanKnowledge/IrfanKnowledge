@@ -1,11 +1,12 @@
 # Halo semuanya! 👋
 
 Perkenalkan nama saya **Irfan M. Faisal**.<br>
+Saya seorang **Fresh Graduate** yang saat ini berfokus di Mobile Developer (kotlin/flutter).<br>
+Sebelumnya saya juga pernah berfokus di Web Developer (html, css, javascript, php, CodeIgniter).
 
-Saya seorang **Fresh Graduate** yang berfokus di Mobile Developer.
+Saya dapat dihubungi melalui [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/).
 
-Saya memiliki akun [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/).
-
+## Project
 Mengenai project yang pernah saya buat, di antaranya yaitu:
 
 - <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" /></a>
@@ -22,10 +23,10 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
   + [BookShelfAPI](https://github.com/IrfanKnowledge/sbm-1-bookshelf-api)
 
 - <a href="https://www.php.net/"><img align="left|middle" alt="PHP" title="PHP" width="30px" src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" /></a>
-  PHP:
+  PHP (html, css, javascript):
   + [E-Learning](https://github.com/IrfanKnowledge/PromNet_E-Learning)
 
-### Github Statistic
+## Github Statistic
 <p align="left">
 <a href="https://github.com/IrfanKnowledge">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrfanKnowledge&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
