@@ -30,8 +30,13 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/IrfanKnowledge">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrfanKnowledge&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrfanKnowledge&layout=compact&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrfanKnowledge&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/IrfanKnowledge">
+  <img height="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrfanKnowledge&layout=compact&theme=algolia&langs_count=20"/>
 </a>
 </p>
 
