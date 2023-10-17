@@ -12,6 +12,7 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
 - <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" /></a>
   Flutter:
   + [RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
+  + [StoryApp](https://github.com/IrfanKnowledge/story_app)
 
 - <a href="https://developer.android.com/"><img align="left" alt="Android" title="Android" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" /></a>
   <a href="https://kotlinlang.org/"><img align="left" alt="Android" title="Android" width="25px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" /></a>
