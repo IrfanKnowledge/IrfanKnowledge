@@ -1,7 +1,7 @@
 # Halo semuanya! 👋
 
 Perkenalkan nama saya **Irfan M. Faisal**.<br>
-Saya seorang **Fresh Graduate** yang saat ini berfokus di Mobile Developer (kotlin/flutter).<br>
+Saya seorang **Mobile Developer** yang saat ini berfokus di flutter dan kotlin.<br>
 Sebelumnya saya juga pernah berfokus di Web Developer (html, css, javascript, php, CodeIgniter).
 
 Saya dapat dihubungi melalui [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/).
@@ -11,6 +11,18 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
 
 - <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" /></a>
   Flutter:
+  + E-Commerce
+    <details>
+      <summary>Preview</summarY>
+      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/bator/blob/0.2.2-onGeneratedRoute/additional/screenshot/combine/screenshot_1.jpg" />
+      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/bator/blob/0.2.2-onGeneratedRoute/additional/screenshot/combine/screenshot_2.jpg" />
+      
+      ### Deskripsi
+
+      Ini merupakan aplikasi jual beli motor, beserta komponen/barang yang berkaitan.<br>
+      Aplikasi ini masih dalam proses pengembangan, dan belum rilis. Nama aplikasi pada foto hanya contoh.<br>
+      Aplikasi ini ditargetkan akan rilis pada android, ios, dan web.
+    </details>
   + [RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
   + [StoryApp](https://github.com/IrfanKnowledge/story_app)
 
