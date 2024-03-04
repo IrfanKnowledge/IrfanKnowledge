@@ -21,7 +21,12 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
 
       Ini merupakan aplikasi jual beli motor, beserta komponen/barang yang berkaitan.<br>
       Aplikasi ini masih dalam proses pengembangan, dan belum rilis. Nama aplikasi pada foto hanya contoh.<br>
-      Aplikasi ini ditargetkan akan rilis pada android, ios, dan web.
+      Aplikasi ini ditargetkan akan rilis pada android, ios, dan web.<br>
+      Dalam proses pengerjaannya:
+      + Saya terlibat dalam merancang produk
+      + Saya terlibat dalam merancang UI
+      + Aplikasi menggunakan API untuk berinteraksi dengan server
+      + Terdapat penggunaan Firebase, Pusher, dan OneSignal.
     </details>
   + [RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
   + [StoryApp](https://github.com/IrfanKnowledge/story_app)
