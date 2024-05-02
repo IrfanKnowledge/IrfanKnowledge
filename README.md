@@ -28,8 +28,18 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       + Aplikasi menggunakan API untuk berinteraksi dengan server
       + Terdapat penggunaan Firebase, Pusher, dan OneSignal.
     </details>
+  + StoryApp
+    <details>
+      <summary>Preview</summarY>
+      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/story_app/blob/1.2-release-fixed/additional/screenshot/screenshot_part_1.jpg" />
+      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/story_app/blob/1.2-release-fixed/additional/screenshot/screenshot_part_2.jpg" />
+      
+      ### Deskripsi
+
+      Ini merupakan...
+      + Terdapat penggunaan Firebase, Pusher, dan OneSignal.
+    </details>
   + [RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
-  + [StoryApp](https://github.com/IrfanKnowledge/story_app)
 
 - <a href="https://developer.android.com/"><img align="left" alt="Android" title="Android" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" /></a>
   <a href="https://kotlinlang.org/"><img align="left" alt="Android" title="Android" width="25px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" /></a>
