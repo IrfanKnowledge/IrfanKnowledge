@@ -25,8 +25,12 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       Dalam proses pengerjaannya:
       + Saya terlibat dalam merancang produk
       + Saya terlibat dalam merancang UI
-      + Aplikasi menggunakan API untuk berinteraksi dengan server
+      + State management menggunakan library [provider](https://pub.dev/packages/provider)
+      + Aplikasi menggunakan API untuk berinteraksi dengan server (Back-End menggunakan Laravel)
       + Terdapat penggunaan Firebase, Pusher, dan OneSignal.
+      + Terdapat Localization: terdiri dari Bahasa Indonesia dan English
+      + Menampilkan daftar data (daftar produk) dengan penerapan pagination
+      + Dari sisi tema terdapat penerapan Material Design 3 dan Cupertino
     </details>
   + StoryApp
     <details>
