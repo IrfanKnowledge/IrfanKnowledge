@@ -14,8 +14,8 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
   + E-Commerce
     <details>
       <summary>Preview</summarY>
-      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/bator/blob/0.2.2-onGeneratedRoute/additional/screenshot/combine/screenshot_1.jpg" />
-      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/bator/blob/0.2.2-onGeneratedRoute/additional/screenshot/combine/screenshot_2.jpg" />
+      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_bator/screenshot_1.jpg" />
+      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_bator/screenshot_2.jpg" />
       
       ### Deskripsi
 
@@ -35,8 +35,8 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
   + StoryApp
     <details>
       <summary>Preview</summarY>
-      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/story_app/blob/1.2-release-fixed/additional/screenshot/screenshot_part_1.jpg" />
-      <img alt="Flutter" title="e-commerce" src="/../../../../IrfanKnowledge/story_app/blob/1.2-release-fixed/additional/screenshot/screenshot_part_2.jpg" />
+      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_story_app/screenshot_part_1.jpg" />
+      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_story_app/screenshot_part_2.jpg" />
       
       ### Deskripsi
 
