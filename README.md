@@ -44,7 +44,8 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       + Dari sisi cara eksekusi kode program terdapat penerapan [Asynchronous](https://dart.dev/codelabs/async-await)
       + Dari sisi state management terdapat penerapan library [provider](https://pub.dev/packages/provider)
       + Dari sisi request API terdapat penerapan library [http](https://pub.dev/packages/http)
-      + Dari sisi JSON Serialization terdapat penerapan library [freeze](https://pub.dev/packages/freezed)
+      + Dari sisi JSON Serialization terdapat penerapan library [freezed](https://pub.dev/packages/freezed)
+      + Dari sisi Local Memory terdapat penggunaan [shared_preferences](https://pub.dev/packages/shared_preferences)
       + Dari sisi menampilkan daftar data (daftar produk) dalam bentuk list/grid terdapat penerapan pagination
       + Dari sisi UI Advance terdapat penggunaan [Custom Painter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html) dan [Explicit Animation](https://docs.flutter.dev/ui/animations/tutorial)
       + Dari sisi [Localization](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization) terdaoat Bahasa Indonesia dan English
