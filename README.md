@@ -36,8 +36,19 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       
       ### Deskripsi
 
-      Ini merupakan...
-      + Terdapat penggunaan Firebase, Pusher, dan OneSignal.
+      Ini merupakan aplikasi berbagi cerita. Project flutter ini ditujukan untuk Android, iOS, dan Web.<br>
+      Dalam proses pengerjaanya:
+      + Dari sisi layout terdapat penerapan [Sliver](https://docs.flutter.dev/ui/layout/scrolling/slivers), [Expanded](https://api.flutter.dev/flutter/widgets/Expanded-class.html), [Flexible](https://api.flutter.dev/flutter/widgets/Flexible-class.html), dan [Gap](https://pub.dev/packages/gap)
+      + Dari sisi navigasi telah menerapkan navigasi 2.0 (declarative style) menggunakan library [go_router](https://pub.dev/packages/go_router)
+      + Dari sisi tema terdapat penerapan [Material Design 3](https://m3.material.io/) dan [Cupertino (iOS-style)](https://docs.flutter.dev/ui/widgets/cupertino])
+      + Dari sisi cara eksekusi kode program terdapat penerapan [Asynchronous](https://dart.dev/codelabs/async-await)
+      + Dari sisi state management terdapat penerapan library [provider](https://pub.dev/packages/provider)
+      + Dari sisi request API terdapat penerapan library [http](https://pub.dev/packages/http)
+      + Dari sisi JSON Serialization terdapat penerapan library [freeze](https://pub.dev/packages/freezed)
+      + Dari sisi menampilkan daftar data (daftar produk) dalam bentuk list/grid terdapat penerapan pagination
+      + Dari sisi UI Advance terdapat penggunaan [Custom Painter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html) dan [Explicit Animation](https://docs.flutter.dev/ui/animations/tutorial)
+      + Dari sisi [Localization](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization) terdaoat Bahasa Indonesia dan English
+      + Dari sisi [Build Variant (Flavors)](https://docs.flutter.dev/deployment/flavors) terdapat flavor free dan paid
     </details>
   + [RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
 
