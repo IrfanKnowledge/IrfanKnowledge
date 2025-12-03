@@ -1,10 +1,18 @@
-# Halo semuanya! 👋
+# Mobile Developer | Building Cost-Effective & Scalable Apps | Educational Tech
 
-Perkenalkan nama saya **Irfan M. Faisal**.<br>
-Saya seorang **Mobile Developer** yang saat ini berfokus di flutter dan kotlin.<br>
-Sebelumnya saya juga pernah berfokus di Web Developer (html, css, javascript, php, CodeIgniter).
+[English] Synthesizing the gap between User Experience, Business Goals, and Technical Constraints.
 
-Saya dapat dihubungi melalui [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/).
+I focus on delivering digital solutions that are cost-effective, efficient, and impactful. My approach solves problems by finding the perfect balance—preventing both overengineering and underengineering.
+
+Open to feedback, discussion, and collaborative iteration.
+
+[Bahasa Indonesia] Menyintesis kebutuhan Pengguna, Bisnis, dan Teknis.
+
+Saya fokus memastikan solusi digital (perangkat lunak) yang dibangun efisien secara biaya, efektif, dan berdampak nyata. Saya menyelesaikan masalah dengan pertimbangan matang: mencegah terjadinya Overengineering maupun Underengineering.
+
+Terbuka terhadap diskusi, umpan balik, dan proses iterasi.
+
+Contact: [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/).
 
 ## Project
 Mengenai project yang pernah saya buat, di antaranya yaitu:
