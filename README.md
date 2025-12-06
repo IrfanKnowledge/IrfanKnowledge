@@ -17,13 +17,38 @@ Contact: [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/
 ## Project
 Mengenai project yang pernah saya buat, di antaranya yaitu:
 
-- <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" /></a>
+- <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" /></a>&nbsp; 
   Flutter:
+  + Velocity Try Out
+    <details>
+      <summary>Preview</summarY>
+      <img alt="Flutter" title="e-commerce" src="screenshot/flutter_velocity_try_out/screenshot_1.png" />
+      
+      ### Deskripsi
+
+      Ini merupakan aplikasi pendidikan yang membantu siswa belajar dengan menyediakan soal-soal berkualitas untuk menguji kemampuan dan dapat menjadi tempat berlatih<br>
+
+      Aplikasi ini dapat kamu download di:
+      - [Play Store](https://play.google.com/store/apps/details?id=com.edu.velocity&hl=id)
+      - App Store (Sudah lolos <i>apple review</i> tapi kami masih mempertimbangkan detailnya)
+      
+      Dalam proses pengerjaannya:
+      
+      + Menyintesis kebutuhan Pengguna, Bisnis, dan Teknis.
+      + Berupaya mencari solusi yang efisien, efektif, mencegah terjadinya Overengineering dan Underengineering.
+      + Sering berdiskusi sebelum mengambil keputusan langkah berikutnya.
+      + Berdiskusi saat proses perancangan UI.
+      + Banyak dinamika situasi yang terjadi, namun tetap beradaptasi dengan baik.
+      + Banyak pelajaran berharga yang didapatkan dari kerja tim, selama proses pengerjaan ini.
+      + State management menggunakan GetX
+      + Menggunakan API untuk berinteraksi dengan server. Juga membuat API Contract.
+      + Terdapat penggunaan Firebase.
+    </details>
   + E-Commerce
     <details>
       <summary>Preview</summarY>
-      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_bator/screenshot_1.jpg" />
-      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_bator/screenshot_2.jpg" />
+      <img alt="Flutter" title="e-commerce" src="screenshot/flutter_bator/screenshot_1.jpg" />
+      <img alt="Flutter" title="e-commerce" src="screenshot/flutter_bator/screenshot_2.jpg" />
       
       ### Deskripsi
 
@@ -43,8 +68,8 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
   + StoryApp
     <details>
       <summary>Preview</summarY>
-      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_story_app/screenshot_part_1.jpg" />
-      <img alt="Flutter" title="e-commerce" src="/screenshot/flutter_story_app/screenshot_part_2.jpg" />
+      <img alt="Flutter" title="e-commerce" src="screenshot/flutter_story_app/screenshot_part_1.jpg" />
+      <img alt="Flutter" title="e-commerce" src="screenshot/flutter_story_app/screenshot_part_2.jpg" />
       
       ### Deskripsi
 
