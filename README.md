@@ -28,12 +28,11 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
 
       Ini merupakan aplikasi pendidikan yang membantu siswa belajar dengan menyediakan soal-soal berkualitas untuk menguji kemampuan dan sebagai tempat berlatih<br>
 
-      Aplikasi ini dapat kamu download di:
+      Download aplikasi ini di:
       - [Play Store](https://play.google.com/store/apps/details?id=com.edu.velocity&hl=id)
       - App Store (Sudah lolos <i>apple review</i> tapi kami masih mempertimbangkan detailnya)
-      
-      Dalam proses pengerjaannya:
-      
+
+      <br>Dalam proses pengerjaannya:
       + Menyintesis kebutuhan Pengguna, Bisnis, dan Teknis.
       + Berupaya mencari solusi yang efisien, efektif, mencegah terjadinya Overengineering dan Underengineering.
       + Sering berdiskusi sebelum mengambil keputusan langkah berikutnya.
@@ -96,26 +95,26 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
   <a href="https://kotlinlang.org/"><img align="left" alt="Android" title="Android" width="25px" src="image/kotlin_logo.png" /></a>
   Android (Kotlin):
   + [D'Tonton](https://github.com/IrfanKnowledge/d_tonton/tree/v1.2.0)
+    
+    ### Deskripsi
   
-  ### Deskripsi
-
-  Ini merupakan aplikasi daftar film dari API Open Source. Ini tidak rilis di mana pun karena hanya untuk contoh.<br>
+    Ini merupakan aplikasi daftar film dari API Open Source. Ini tidak rilis di mana pun karena hanya untuk contoh.<br>
 
 - <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="image/node_js_logo.png" /></a>
   Back End NodeJS (Hapi.js):
   + [BookShelfAPI](https://github.com/IrfanKnowledge/sbm-1-bookshelf-api)
 
-  ### Deskripsi
-
-  Ini merupakan API Service untuk peminjaman buku. Ini tidak rilis di mana pun karena hanya untuk contoh.<br>
+    ### Deskripsi
+  
+    Ini merupakan API Service untuk peminjaman buku. Ini tidak rilis di mana pun karena hanya untuk contoh.<br>
 
 - <a href="https://www.php.net/"><img align="left|middle" alt="PHP" title="PHP" width="30px" src="image/php_logo.png" /></a>
   PHP (html, css, javascript):
   + [E-Learning](https://github.com/IrfanKnowledge/PromNet_E-Learning)
 
-  ### Deskripsi
-
-  Ini merupakan E-Learning untuk membantu guru dan siswa belajar. Ini bisa digunakan untuk internal sekolah.<br>
+    ### Deskripsi
+  
+    Ini merupakan E-Learning untuk membantu guru dan siswa belajar. Ini bisa digunakan untuk internal sekolah.<br>
 
 ## Github Statistic
 <p align="left">
