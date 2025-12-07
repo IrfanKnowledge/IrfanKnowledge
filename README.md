@@ -15,7 +15,7 @@ Terbuka terhadap diskusi, umpan balik, dan proses iterasi.
 Contact: [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/).
 
 ## Project
-Mengenai project yang pernah saya buat, di antaranya yaitu:
+Project yang pernah dibuat, di antaranya yaitu:
 
 - <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="image/flutter_logo.png" /></a>
   Flutter:
