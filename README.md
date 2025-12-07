@@ -17,7 +17,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/irfan-muhammad-faisal-359665148/
 ## Project
 Mengenai project yang pernah saya buat, di antaranya yaitu:
 
-- <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" /></a>&nbsp; 
+- <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="image/flutter_logo.png" /></a>
   Flutter:
   + Velocity Try Out
     <details>
@@ -26,7 +26,7 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       
       ### Deskripsi
 
-      Ini merupakan aplikasi pendidikan yang membantu siswa belajar dengan menyediakan soal-soal berkualitas untuk menguji kemampuan dan dapat menjadi tempat berlatih<br>
+      Ini merupakan aplikasi pendidikan yang membantu siswa belajar dengan menyediakan soal-soal berkualitas untuk menguji kemampuan dan sebagai tempat berlatih<br>
 
       Aplikasi ini dapat kamu download di:
       - [Play Store](https://play.google.com/store/apps/details?id=com.edu.velocity&hl=id)
@@ -52,18 +52,20 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       
       ### Deskripsi
 
-      Ini merupakan aplikasi jual beli motor, beserta komponen/barang yang berkaitan.<br>
+      Ini merupakan aplikasi jual beli motor, beserta komponen atau barang yang berkaitan.<br>
       Aplikasi ini masih dalam proses pengembangan, dan belum rilis. Nama aplikasi pada foto hanya contoh.<br>
-      Aplikasi ini ditargetkan akan rilis pada android, ios, dan web.<br>
+      Aplikasi ini ditargetkan akan rilis pada android dan iOS<br>
+
       Dalam proses pengerjaannya:
-      + Saya terlibat dalam merancang produk
-      + Saya terlibat dalam merancang UI
-      + State management menggunakan library [provider](https://pub.dev/packages/provider)
-      + Aplikasi menggunakan API untuk berinteraksi dengan server (Back-End menggunakan Laravel)
+      + Menyintesis kebutuhan Pengguna, Bisnis, dan Teknis.
+      + Berupaya mencari solusi yang efisien, efektif, mencegah terjadinya Overengineering dan Underengineering.
+      + Sering berdiskusi sebelum mengambil keputusan langkah berikutnya.
+      + Berdiskusi saat proses perancangan UI.
+      + Banyak hal menarik yang terjadi selama proses pengembangan secara tim.
+      + State management menggunakan Provider
+      + Aplikasi menggunakan API untuk berinteraksi dengan server
       + Terdapat penggunaan Firebase, Pusher, dan OneSignal.
       + Terdapat Localization: terdiri dari Bahasa Indonesia dan English
-      + Menampilkan daftar data (daftar produk) dengan penerapan pagination
-      + Dari sisi tema terdapat penerapan Material Design 3 dan Cupertino
     </details>
   + StoryApp
     <details>
@@ -73,7 +75,8 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       
       ### Deskripsi
 
-      Ini merupakan aplikasi berbagi cerita. Project flutter ini ditujukan untuk Android, iOS, dan Web.<br>
+      Ini merupakan aplikasi berbagi cerita. Project flutter ini ditujukan untuk Android, iOS, dan Web. Ini tidak rilis di mana pun karena hanya untuk contoh.<br>
+      
       Dalam proses pengerjaanya:
       + Dari sisi layout terdapat penerapan [Sliver](https://docs.flutter.dev/ui/layout/scrolling/slivers), [Expanded](https://api.flutter.dev/flutter/widgets/Expanded-class.html), [Flexible](https://api.flutter.dev/flutter/widgets/Flexible-class.html), dan [Gap](https://pub.dev/packages/gap)
       + Dari sisi navigasi telah menerapkan navigasi 2.0 (declarative style) menggunakan library [go_router](https://pub.dev/packages/go_router)
@@ -88,20 +91,31 @@ Mengenai project yang pernah saya buat, di antaranya yaitu:
       + Dari sisi [Localization](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization) terdaoat Bahasa Indonesia dan English
       + Dari sisi [Build Variant (Flavors)](https://docs.flutter.dev/deployment/flavors) terdapat flavor free dan paid
     </details>
-  + [RestaurantApp](https://github.com/IrfanKnowledge/restaurant_app_3_production)
 
-- <a href="https://developer.android.com/"><img align="left" alt="Android" title="Android" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" /></a>
-  <a href="https://kotlinlang.org/"><img align="left" alt="Android" title="Android" width="25px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" /></a>
+- <a href="https://developer.android.com/"><img align="left" alt="Android" title="Android" width="30px" src="image/android_logo_2019.png" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Android" title="Android" width="25px" src="image/kotlin_logo.png" /></a>
   Android (Kotlin):
-  + [GitHubUserApp](https://github.com/IrfanKnowledge/GitHubUser4ElectricEel_Clean)
+  + [D'Tonton](https://github.com/IrfanKnowledge/d_tonton/tree/v1.2.0)
+  
+  ### Deskripsi
 
-- <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  Ini merupakan aplikasi daftar film dari API Open Source. Ini tidak rilis di mana pun karena hanya untuk contoh.<br>
+
+- <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="image/node_js_logo.png" /></a>
   Back End NodeJS (Hapi.js):
   + [BookShelfAPI](https://github.com/IrfanKnowledge/sbm-1-bookshelf-api)
 
-- <a href="https://www.php.net/"><img align="left|middle" alt="PHP" title="PHP" width="30px" src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" /></a>
+  ### Deskripsi
+
+  Ini merupakan API Service untuk peminjaman buku. Ini tidak rilis di mana pun karena hanya untuk contoh.<br>
+
+- <a href="https://www.php.net/"><img align="left|middle" alt="PHP" title="PHP" width="30px" src="image/php_logo.png" /></a>
   PHP (html, css, javascript):
   + [E-Learning](https://github.com/IrfanKnowledge/PromNet_E-Learning)
+
+  ### Deskripsi
+
+  Ini merupakan E-Learning untuk membantu guru dan siswa belajar. Ini bisa digunakan untuk internal sekolah.<br>
 
 ## Github Statistic
 <p align="left">
