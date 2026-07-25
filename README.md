@@ -52,7 +52,8 @@ Project yang pernah dibuat, di antaranya yaitu:
       ### Deskripsi
 
       Ini merupakan aplikasi jual beli motor, beserta komponen atau barang yang berkaitan.<br>
-      Aplikasi ini masih dalam proses pengembangan, dan belum rilis. Nama aplikasi pada foto hanya contoh.<br>
+      Aplikasi ini masih dalam proses pengembangan, dan belum rilis. Karena dalam proses pengembangan, foto-foto ini hanya contoh.<br>
+      Ia tidak merepresentasikan hasil akhir. Data produk dan data akun pada foto ini hanya contoh.
       Aplikasi ini ditargetkan akan rilis pada android dan iOS<br>
 
       Dalam proses pengerjaannya:
