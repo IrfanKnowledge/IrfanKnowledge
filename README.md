@@ -29,8 +29,8 @@ Project yang pernah dibuat, di antaranya yaitu:
       Ini merupakan aplikasi pendidikan yang membantu siswa belajar dengan menyediakan soal-soal berkualitas untuk menguji kemampuan dan sebagai tempat berlatih<br>
 
       Download aplikasi ini di:
-      - [Play Store](https://play.google.com/store/apps/details?id=com.edu.velocity&hl=id)
-      - App Store (Sudah lolos <i>apple review</i> tapi kami masih mempertimbangkan detailnya)
+      - Play Store
+      - App Store
 
       <br>Dalam proses pengerjaannya:
       + Menyintesis kebutuhan Pengguna, Bisnis, dan Teknis.
