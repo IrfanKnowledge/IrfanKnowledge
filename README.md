@@ -28,10 +28,6 @@ Project yang pernah dibuat, di antaranya yaitu:
 
       Ini merupakan aplikasi pendidikan yang membantu siswa belajar dengan menyediakan soal-soal berkualitas untuk menguji kemampuan dan sebagai tempat berlatih<br>
 
-      Download aplikasi ini di:
-      - Play Store
-      - App Store
-
       <br>Dalam proses pengerjaannya:
       + Menyintesis kebutuhan Pengguna, Bisnis, dan Teknis.
       + Berupaya mencari solusi yang efisien, efektif, mencegah terjadinya Overengineering dan Underengineering.
